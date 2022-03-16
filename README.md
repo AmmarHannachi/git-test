@@ -1,2 +1,2 @@
 # git-test
-Premier test git pour le cours blent 
+Nous travaillons sur les branches de Git ! 
